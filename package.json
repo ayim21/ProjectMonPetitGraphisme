@@ -1,0 +1,16 @@
+{
+  "name": "mon-petit-graphisme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "g": "^2.0.1",
+    "sass": "^1.43.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "sass --watch ./sass/mains.scss:./css/style.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
